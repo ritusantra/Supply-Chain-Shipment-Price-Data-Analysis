@@ -20,3 +20,5 @@ Exploratory data analysis has been performed using Python - Pandas, Matplotlib a
 * Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).
 * Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.
 * Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
+
+![image](https://github.com/ritusantra/portfolio/blob/main/images/Shipment.png)
