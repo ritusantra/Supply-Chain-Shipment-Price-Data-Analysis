@@ -5,7 +5,7 @@ Exploratory data analysis has been performed using Python - Pandas, Matplotlib a
 ### Data Cleaning and Manipulation
 
 * Data cleaning and manipulation were done on **7000+** records of data.
-* Dropped **Item Description** and **Molecule/Test Type** columns as they were not neccessary for the analysis. 
+* Dropped **Item Description** and **Molecule/Test Type** columns as they were not necessary for the analysis. 
 * Other columns could have also been dropped so that the dataset size will be reduced and it will be easier for processing.
 * Filtered rows from **Weight (Kilograms)** and **Freight Cost (USD)** columns which had object datatype.
 * Changed datatypes of **Weight (Kilograms)**, **Freight Cost (USD)**, **Scheduled Delivery Date**, **Delivered to Client Date** and **Delivery Recorded Date** columns.
