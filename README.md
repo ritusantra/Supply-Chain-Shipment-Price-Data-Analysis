@@ -11,7 +11,7 @@ Exploratory data analysis has been performed using Python - Pandas, Matplotlib a
 * Changed datatypes of **Weight (Kilograms)**, **Freight Cost (USD)**, **Scheduled Delivery Date**, **Delivered to Client Date** and **Delivery Recorded Date** columns.
 * Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.
 
-### Key insights 
+### Key Insights 
 * Total orders: 5572
 * Total orderlines: 6175
 * Total projects: 130
