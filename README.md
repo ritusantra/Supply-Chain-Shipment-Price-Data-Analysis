@@ -1,10 +1,10 @@
 # Supply Chain Shipment Price Data Analysis 🚚📊
 
-### 🟢 Objective
+### ✔️ Objective
 * To perform exploratory data analysis using Python - Pandas, Matplotlib and Seaborn libraries.
 * Analyse the data and present key insights on freight cost based on the country, shipment mode and manufacturing site.
 
-### 🟢 Data Cleaning and Manipulation
+### ✔️ Data Cleaning and Manipulation
 
 * Data cleaning and manipulation were done on **7000+** records of data.
 * Dropped **Item Description** and **Molecule/Test Type** columns as they were not necessary for the analysis. 
@@ -13,7 +13,7 @@
 * Changed datatypes of **Weight (Kilograms)**, **Freight Cost (USD)**, **Scheduled Delivery Date**, **Delivered to Client Date** and **Delivery Recorded Date** columns.
 * Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.
 
-### 🟢 Key Insights 
+### ✔️ Key Insights 
 * **Total orders:** 5572
 * **Total orderlines:** 6175
 * **Total projects:** 130
@@ -24,5 +24,5 @@
 * **Top 3 Manufacturing Site by Freight Cost**: Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
 
 
-### 🟢 Reference
+### ✔️ Reference
 https://www.youtube.com/watch?v=DhVQIhR42hc&t=5734s
