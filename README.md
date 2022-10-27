@@ -24,6 +24,5 @@
 * **Top 3 Manufacturing Site by Freight Cost**: Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
 
 
-![image](https://github.com/ritusantra/portfolio/blob/main/images/Shipment.png)
-
-Reference: https://www.youtube.com/watch?v=DhVQIhR42hc&t=5734s
+### Reference
+https://www.youtube.com/watch?v=DhVQIhR42hc&t=5734s
