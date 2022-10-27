@@ -1,6 +1,8 @@
-# Supply-Chain-Shipment-Price-Data-Analysis
+# Supply Chain Shipment Price Data Analysis
 
-Exploratory data analysis has been performed using Python - Pandas, Matplotlib and Seaborn libraries.
+### Objective
+* To perform exploratory data analysis using Python - Pandas, Matplotlib and Seaborn libraries.
+* Analyse the data and present key insights on freight cost based on the country, shipment mode and manufacturing site.
 
 ### Data Cleaning and Manipulation
 
