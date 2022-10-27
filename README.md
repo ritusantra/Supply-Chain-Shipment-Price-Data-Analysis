@@ -1,4 +1,4 @@
-# Supply Chain Shipment Price Data Analysis 🚚🚛
+# Supply Chain Shipment Price Data Analysis 🚚📊
 
 ### Objective
 * To perform exploratory data analysis using Python - Pandas, Matplotlib and Seaborn libraries.
